@@ -6,7 +6,7 @@
 
 #setting web-ide,
 #센서(버튼,led,먼지,모터,온도 등)
-#인터넷
+#인터넷 request, cwaling
 #인터넷 +센서
 #센서(wifi,적외선)
 #3d part (firebase 등)
