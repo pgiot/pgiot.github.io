@@ -64,7 +64,7 @@
     })
 
     // Add a callback that is triggered for each chat message.
-    messagesRef.limitToLast(50).on('child_added', function (snapshot) {
+    messagesRef.limitToLast(50).on('child_added', function () {
 
         $( ".heart_prj" ).addClass( "heart_animate");
         $( ".btn_heart" ).addClass( "heart_animate");
